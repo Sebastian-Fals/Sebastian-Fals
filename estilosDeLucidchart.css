@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    font-family: Arial;
+    background-color: lightcoral;
+}
+
+#MindeMeister
+{
+    width: 70%;
+    padding: 1em;
+    border:  2px solid darkgray;
+    margin: 0 auto;
+    background: white;
+    text-align: left;
+}
+
+#cabecera
+{
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    background: turquoise;
+    padding: 0.01em;
+}

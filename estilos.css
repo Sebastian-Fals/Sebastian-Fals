@@ -1,25 +1,42 @@
 body
 {
-    text-align: center;
-    font-family: Arial;
     background-color: lightcoral;
-}
-
-#MindeMeister
-{
-    width: 70%;
-    padding: 1em;
-    border:  2px solid darkgray;
-    margin: 0 auto;
-    background: white;
-    text-align: left;
+    font-family: Arial;
+    text-align: center;
 }
 
 #cabecera
 {
-    text-align: center;
-    font-weight: bold;
-    color: whitesmoke;
+    border-radius: 27px 27px 27px 27px;
     background: turquoise;
-    padding: 0.01em;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#cabecera #lo_otro
+{
+    font-size: 75%;
+}
+
+#Botones
+{
+    border-radius: 18px 18px 18px 18px;
+    text-align: center;
+    background: #D6D5D4;
+    color: black;
+    padding: 1em;
+    margin: 0 auto;
+    border: 2px solid white; 
+}
+
+#todo
+{
+    width: 60%;
+    background-color: white;
+    padding: 0.5em;
+    margin: 0 auto;
 }
