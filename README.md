@@ -26,7 +26,7 @@ Soy Guillermo Sebastian Fals, un apasionado desarrollador web con experiencia en
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
 - **Email:** [guillermosebastianfals@gmail.com](mailto:guillermosebastianfals@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/sebastian-fals-1b9880163/](https://www.linkedin.com/in/sebastian-fals-1b9880163/))
+- **LinkedIn:** [https://www.linkedin.com/in/sebastian-fals-1b9880163/](https://www.linkedin.com/in/sebastian-fals-1b9880163/)
 
 ---
 
