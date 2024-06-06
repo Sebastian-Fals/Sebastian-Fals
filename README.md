@@ -18,6 +18,7 @@ Soy Guillermo Sebastian Fals, un apasionado desarrollador web con experiencia en
 
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) **Node.js (Básico)**
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **Angular**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) **React**
 
 ---
 
