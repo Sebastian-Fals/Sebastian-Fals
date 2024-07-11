@@ -1,5 +1,7 @@
 # 💫 About Me:
-About Me<br>¡Hola! 👋 Soy Sebastián Fals, un joven programador de 18 años con una pasión por la tecnología que comenzó a los 8 años. A lo largo de estos años, he explorado diversos lenguajes de programación, frameworks y herramientas, y me encanta enfrentarme a nuevos desafíos y aprender de cada experiencia.<br><br>Mi objetivo en GitHub es compartir mis proyectos, colaborar con otros entusiastas de la tecnología y seguir creciendo como desarrollador. Estoy siempre en busca de oportunidades para aprender nuevas habilidades, explorar ideas innovadoras y contribuir a la comunidad de código abierto.<br><br>Si estás interesado en colaborar en un proyecto, discutir sobre nuevas tecnologías o simplemente conectar, ¡no dudes en contactarme!
+About Me<br>Hello! 👋 I'm Sebastián Fals, an 18-year-old programmer with a passion for technology that began when I was just 8 years old. Over the years, I've explored various programming languages, frameworks, and tools, and I love tackling new challenges and learning from every experience.
+My goal on GitHub is to share my projects, collaborate with other tech enthusiasts, and continue growing as a developer. I am always looking for opportunities to learn new skills, explore innovative ideas, and contribute to the open-source community.
+If you're interested in collaborating on a project, discussing new technologies, or just connecting, feel free to reach out!
 
 
 ## 🌐 Socials:
